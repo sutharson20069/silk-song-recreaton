@@ -71,3 +71,51 @@ export default defineConfig([
   },
 ])
 ```
+Hi everyone 👋
+
+I built a small **TypeScript + React + Canvas** game engine as a learning project.
+
+Repo: https://github.com/sutharson20069/silk-song-recreaton
+
+### What it includes
+- Engine-style folder split (`engine/`, `entities/`, `systems/`)
+- Canvas rendering loop
+- Basic Player & Boss representation
+- TypeScript usage with React + Vite
+
+### What I need help with
+I’m looking for feedback on:
+- Folder / code structure
+- Separation of update/render logic
+- Entity modelling (Player, Enemy, Boss)
+- Scaling this into a full game
+- Any obvious bugs or best practices I’m missing
+
+### How to run
+```bash
+npm install
+npm run dev
+
+---
+
+## 🧠 Tips to get better help quickly
+
+✅ Provide screenshots of errors  
+✅ Include console logs  
+✅ Show specific functions you’re confused about  
+✅ Ask targeted questions (e.g., “how to add animation frame logic?”)
+
+---
+
+## 🔍 Want me to preview your repo code?
+
+Just paste the **contents of main files** or tell me which part you want feedback on.
+
+I can:
+✅ Review architecture  
+✅ Fix bugs  
+✅ Suggest improvements  
+✅ Write high-quality README
+
+Tell me where to start!
+::contentReference[oaicite:0]{index=0}
